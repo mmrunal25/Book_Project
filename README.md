@@ -1,2 +1,2 @@
-# Book_Project
-Book Management System Python Project
+# Books_Project
+Books Management System Python Project
